@@ -12,6 +12,6 @@ This project is on the NEAT Algorithm, that calculates the pipe height and the a
 
 The GIF indicates how the game runs :)
 
-
+![Sample of how the game is played](https://github.com/GursahajKohli/Self-Playing-Flappy-Bird-Game/blob/main/FlappyBird/imgs/ezgif.com-gif-maker%20(5).gif)
 
 I hope you liked my work !
