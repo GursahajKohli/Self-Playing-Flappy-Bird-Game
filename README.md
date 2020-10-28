@@ -1,4 +1,4 @@
-# Self-Playing-Flappy-Bird-Game
+# Self Playing Flappy Bird Game
 
 Flappy Birds Game, the toughest game yet the easiest but still very difficult to win.
 How about a system plays the game and becomes **UNBEATABLE**
